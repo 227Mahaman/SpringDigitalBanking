@@ -1,0 +1,47 @@
+{
+  "size": 157,
+  "error": false,
+  "invoked": true,
+  "saved": false,
+  "timeTaken": 30,
+  "headers": {
+    "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "connection": "close",
+    "content-type": "application/json",
+    "date": "Thu, 04 Sep 2025 11:33:26 GMT",
+    "expires": "0",
+    "pragma": "no-cache",
+    "transfer-encoding": "chunked",
+    "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "0"
+  },
+  "status": 200,
+  "statusText": "",
+  "data": [
+    {
+      "id": 1,
+      "name": "Hassan",
+      "email": "Hassan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Imane",
+      "email": "Imane@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Mohamed",
+      "email": "Mohamed@gmail.com"
+    }
+  ],
+  "mime": "application/json",
+  "cookie": [],
+  "parsedUrl": "http://localhost:8085/customers",
+  "errorMessage": [],
+  "warningMessage": [],
+  "name": "",
+  "tests": [],
+  "varUsed": {}
+}

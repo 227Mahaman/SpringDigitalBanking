@@ -1,0 +1,44 @@
+name='login'
+method = HttpMethod.POST
+url = "http://localhost:8085/auth/login"
+https = Https['HTTP/1.1']
+headers = { '': '' }
+params = { username: 'admin',
+  password: '12345',
+  '': { value: '', enabled: false } }
+timeout = 30
+timeoutType = TimeOutType.s
+requestDataType = RequestDataType.none
+formData = { '': '' }
+urlEncoded = { '': '' }
+nonce = 'Po6ZtZY8hXVH4IontpQVTXIUUude5hlX'  
+examples = []
+//*-----|****|-----*//
+name='profile'
+method = HttpMethod.GET
+url = "http://localhost:8085/auth/profile"
+https = Https['HTTP/1.1']
+headers = { Authorization: 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTc1NjkxNTMzMSwiaWF0IjoxNzU2OTE0NzMxLCJzY29wZSI6IlJPTEVfQURNSU4gUk9MRV9VU0VSIn0.bZ_gjihR-NAkk9Aomf1yEg-crj4nfM0RGDxJ-S_me8fOPwKa_vnCSj73FOK4xjWseRgfSggjGeHwusjwgREP3g',
+  '': '' }
+params = { '': '' }
+timeout = 30
+timeoutType = TimeOutType.s
+requestDataType = RequestDataType.none
+formData = { '': '' }
+urlEncoded = { '': '' }
+nonce = 'KfD9iYTHOUmdvT6uUTeUBcePtMQaFRZC'  
+examples = []
+//*-----|****|-----*//
+name='Customers'
+method = HttpMethod.GET
+url = "http://localhost:8085/customers"
+https = Https['HTTP/1.1']
+headers = { '': '' }
+params = { '': '' }
+timeout = 30
+timeoutType = TimeOutType.s
+requestDataType = RequestDataType.none
+formData = { '': '' }
+urlEncoded = { '': '' }
+nonce = 'cOMXxwJpYvGB1575wtlGNqk5I4R5taQL'  
+examples = []

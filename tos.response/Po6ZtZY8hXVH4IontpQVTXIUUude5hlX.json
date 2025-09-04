@@ -1,0 +1,32 @@
+{
+  "size": 219,
+  "error": false,
+  "invoked": true,
+  "saved": false,
+  "timeTaken": 64,
+  "headers": {
+    "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "connection": "close",
+    "content-type": "application/json",
+    "date": "Thu, 04 Sep 2025 11:31:23 GMT",
+    "expires": "0",
+    "pragma": "no-cache",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "0"
+  },
+  "status": 200,
+  "statusText": "",
+  "data": {
+    "access_token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyMSIsImV4cCI6MTc1Njk4NjA4MywiaWF0IjoxNzU2OTg1NDgzLCJzY29wZSI6IlJPTEVfVVNFUiJ9.ULqoCTjCvPGRfQkNTDyAJ2YJfqLE_AFKh_jYFY6j4S-vP2QW7fcT2kw2m_Lem2j_NWY8wby6gAUh-UjBzq3ApQ"
+  },
+  "mime": "application/json",
+  "cookie": [],
+  "parsedUrl": "http://localhost:8085/auth/login?username=user1&password=12345",
+  "errorMessage": [],
+  "warningMessage": [],
+  "name": "",
+  "tests": [],
+  "varUsed": {}
+}

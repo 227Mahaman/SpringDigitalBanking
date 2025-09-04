@@ -1,0 +1,32 @@
+{
+  "size": 0,
+  "error": false,
+  "invoked": true,
+  "saved": false,
+  "timeTaken": 4,
+  "headers": {
+    "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+    "connection": "close",
+    "content-length": "0",
+    "date": "Thu, 04 Sep 2025 11:32:29 GMT",
+    "expires": "0",
+    "pragma": "no-cache",
+    "www-authenticate": "Bearer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "0"
+  },
+  "status": 401,
+  "statusText": "",
+  "data": "",
+  "mime": "",
+  "cookie": [],
+  "parsedUrl": "http://localhost:8085/auth/profile",
+  "errorMessage": [
+    "⚠️ Failed to parse the response."
+  ],
+  "warningMessage": [],
+  "name": "",
+  "tests": [],
+  "varUsed": {}
+}
